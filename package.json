@@ -5,6 +5,7 @@
   "dependencies": {
     "@astrojs/markdoc": "^0.5.0",
     "@astrojs/react": "^3.0.0",
+    "@astrojs/vercel": "^5.0.2",
     "@keystatic/astro": "^1.0.2",
     "@keystatic/core": "^0.1.2",
     "@types/react": "^18.2.8",
