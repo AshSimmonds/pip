@@ -1,0 +1,12 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../layouts/Layout.astro";
+
+const posts = await getCollection("posts");
+---
+
+<Layout title="Ash">
+    <div>
+        <h1>Ash🚀</h1>
+    </div>
+</Layout>
